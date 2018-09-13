@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h2>INTRODUCTION</h2>
 
-Things you may want to cover:
+This is an intro-level Ruby on Rails web application where user can write a blog post online and audience can make comments. Thanks to  Traversy Media (https://www.youtube.com/user/TechGuyWeb) and Codecademy (https://www.codecademy.com/learn/learn-ruby), I had to opportunity to learn a new front-end development tool. 
 
-* Ruby version
+<h2>Deployment</h2>
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To experience the website, please:
+1. Clone this repository
+2. Open Terminal and under this project type <br>
+   $ rails s
+   
+<h2>Version</h2>
+Ruby: 2.2.6
+Rails: 5.0.7
