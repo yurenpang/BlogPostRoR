@@ -8,8 +8,10 @@ This is an intro-level Ruby on Rails web application where user can write a blog
 
 To experience the website, please:
 1. Clone this repository
-2. Open Terminal and under this project type <br>
+2. Open Terminal and under this project, type <br>
    $ rails s
+3. Go to your browser, type <br>
+   localhost: 3000
    
 <h2>Version</h2>
 Ruby: 2.2.6
